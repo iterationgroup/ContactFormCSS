@@ -9,3 +9,13 @@ span.req {
 input.field {
     box-shadow: none !important;
 }
+
+label.desc {
+    font-size: 125% !important;
+    font-family: 'Assistant', sans-serif !important;
+}
+
+input#saveForm {
+    border-radius: 12px !important;
+    background-color: blue !important;
+}
