@@ -1,11 +1,11 @@
-.req {
-    display: hide;
+span.req {
+    display: none !important;
 }
 
 #Field1, #Field2 {
     width: 727.22px;
 }
 
-.field {
+input.field {
     box-shadow: white !important;
 }
