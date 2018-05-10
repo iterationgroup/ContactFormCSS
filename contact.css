@@ -18,6 +18,12 @@ label.desc {
 
 input#saveForm {
     border-radius: 12px !important;
-    background-color: dodgerblue !important;
+    background-color: skyblue !important;
     padding: 8px 18px !important;
+    color: white !important;
+    box-shadow: none !important;
+}
+
+textarea#Field4 {
+    resize: none !important;
 }
