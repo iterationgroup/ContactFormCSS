@@ -5,3 +5,7 @@
 #Field1, #Field2 {
     width: 727.22px;
 }
+
+.field {
+    box-shadow: none !important;
+}
