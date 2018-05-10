@@ -18,5 +18,6 @@ label.desc {
 
 input#saveForm {
     border-radius: 12px !important;
-    background-color: blue !important;
+    background-color: dodgerblue !important;
+    padding: 8px 18px !important;
 }
