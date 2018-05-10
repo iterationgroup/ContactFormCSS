@@ -8,6 +8,7 @@ span.req {
 
 input.field {
     box-shadow: none !important;
+    resize: none !important;
 }
 
 label.desc {
