@@ -17,12 +17,12 @@ label.desc {
 }
 
 input#saveForm {
-    background-image: url("https://dabuttonfactory.com/button.png?t=Submit&f=Calibri&ts=20&tc=fff&hp=15&vp=8&c=5&bgt=gradient&bgc=2ac5ee&ebgc=2ac5ee");
+    background-image: url("https://dabuttonfactory.com/button.png?t=Submit&f=Calibri&ts=20&tc=fff&hp=15&vp=8&c=0&bgt=unicolored&bgc=2ac5ee");
     background-repeat: no-repeat !important;
     font-size: 0px !important;
     border: none !important;
-    width: 80px !important;
-    height: 30px !important;
+    width: 89px !important;
+    height: 36px !important;
     opacity: 100% !important;
     /* border-radius: 12px !important;
     background-color: #2ac5ee !important;
