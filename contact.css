@@ -19,12 +19,12 @@ label.desc {
 }
 
 input#saveForm {
-    background-image: url("https://dabuttonfactory.com/button.png?t=Submit&f=Roboto&ts=18&tc=fff&hp=15&vp=8&c=1&bgt=unicolored&bgc=2ac5ee");
+    background-image: url("https://dabuttonfactory.com/button.png?t=Submit&f=Roboto&ts=16&tc=fff&hp=15&vp=8&c=1&bgt=unicolored&bgc=2ac5ee");
     background-repeat: no-repeat !important;
     font-size: 0px !important;
     border: none !important;
-    width: 79px !important;
-    height: 34px !important;
+    width: 80px !important;
+    height: 32px !important;
     opacity: 100% !important;
     cursor: pointer !important;
     /* border-radius: 12px !important;
@@ -40,12 +40,12 @@ textarea#Field4 {
 }
 
 input#saveForm:hover {
-    background-image: url("https://dabuttonfactory.com/button.png?t=Submit&f=Roboto&ts=18&tc=fff&hp=15&vp=8&c=1&bgt=unicolored&bgc=1f90af&be=1");
+    background-image: url("https://dabuttonfactory.com/button.png?t=Submit&f=Roboto&ts=16&tc=fff&hp=15&vp=8&c=1&bgt=unicolored&bgc=1f90af&be=1");
     background-repeat: no-repeat !important;
     font-size: 0px !important;
     border: none !important;
-    width: 79px !important;
-    height: 34px !important;
+    width: 80px !important;
+    height: 32px !important;
     opacity: 100% !important;
     cursor: pointer !important;
     /* border-radius: 12px !important;
