@@ -23,6 +23,7 @@ input#saveForm {
     border: none !important;
     width: 89px !important;
     height: 36px !important;
+    opacity: 100% !important;
     /* border-radius: 12px !important;
     background-color: #2ac5ee !important;
     padding: 8px 18px !important;
