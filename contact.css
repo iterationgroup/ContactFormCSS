@@ -7,25 +7,26 @@ span.req {
 }
 
 input.field {
-    box-shadow: none !important;
+    /* box-shadow: none !important; */
     resize: none !important;
-    border-color: #F7F7F7 !important;
+    border-color: #E5E5E5 !important;
 }
 
 label.desc {
     font-size: 125% !important;
     font-family: 'Assistant', sans-serif !important;
-    font-weight: lighter !important;
+    font-weight: normal !important;
 }
 
 input#saveForm {
-    background-image: url("https://dabuttonfactory.com/button.png?t=Submit&f=Calibri&ts=18&tc=fff&hp=15&vp=8&c=0&bgt=unicolored&bgc=2ac5ee");
+    background-image: url("https://dabuttonfactory.com/button.png?t=Submit&f=Calibri&ts=18&tc=fff&hp=15&vp=8&c=1&bgt=unicolored&bgc=2ac5ee");
     background-repeat: no-repeat !important;
     font-size: 0px !important;
     border: none !important;
     width: 79px !important;
     height: 34px !important;
     opacity: 100% !important;
+    cursor: pointer !important;
     /* border-radius: 12px !important;
     background-color: #2ac5ee !important;
     padding: 8px 18px !important;
@@ -35,4 +36,20 @@ input#saveForm {
 
 textarea#Field4 {
     resize: none !important;
+}
+
+input#saveForm:hover {
+    background-image: url("https://dabuttonfactory.com/button.png?t=Submit&f=Calibri&ts=18&tc=fff&hp=15&vp=8&c=1&bgt=unicolored&bgc=1f90af&be=1");
+    background-repeat: no-repeat !important;
+    font-size: 0px !important;
+    border: none !important;
+    width: 79px !important;
+    height: 34px !important;
+    opacity: 100% !important;
+    cursor: pointer !important;
+    /* border-radius: 12px !important;
+    background-color: #2ac5ee !important;
+    padding: 8px 18px !important;
+    color: white !important;
+    box-shadow: none !important; */
 }
